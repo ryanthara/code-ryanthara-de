@@ -1,5 +1,5 @@
 ---
-title: Heimat
+title: Zuhause
 body_classes: title-center title-h1h2
 ---
 
