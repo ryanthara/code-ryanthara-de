@@ -4,5 +4,5 @@ routable: false
 visible: false
 ---
 
-Built with [Grav CMS](http://getgrav.org)  
+Built with [Grav CMS](http://getgrav.org) and :blue_heart:
 [Open Publishing Space](http://learn.hibbittsdesign.org/openpublishingspace) package by [hibbittsdesign.org](http://hibbittsdesign.org)  
