@@ -16,7 +16,7 @@ It will be about [AutoLISP](https://en.wikipedia.org/wiki/AutoLISP).
 
 ## Example
 
-A simple Hello world program in AutoLISP would be:
+A simple 'Hello world' program in AutoLISP would be:
 
 ```lisp
 (defun hello ( )
