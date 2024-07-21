@@ -15,7 +15,7 @@ It will be about [AutoLISP](https://en.wikipedia.org/wiki/AutoLISP).
 
 A simple Hello world program in AutoLISP would be:
 
-```AutoLISP
+``` Lisp
 (defun hello ( )
     (princ "\nHello World!")
     (princ)
