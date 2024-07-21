@@ -4,9 +4,9 @@ date: '07:06 21-07-2024'
 hide_git_sync_repo_link: false
 ---
 
-# Impressum
+# Imprint
 
-## Angaben gemäß § 5 TMG
+## Information according to § 5 TMG
 
 Sebastian Aust  
 Vogesenblick 12  
