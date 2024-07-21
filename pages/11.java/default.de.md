@@ -8,6 +8,9 @@ date: '19:23 21-07-2024'
 
 # Java
 
+Es wird um [Java](www.java.com) gehen.
+
+
 ## Example
 
 ```Java
