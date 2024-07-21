@@ -8,8 +8,8 @@ hide_git_sync_repo_link: false
 
 ## Angaben gemäß § 5 TMG
 
-Sebastian Aust 
-Vogesenblick 12 
+Sebastian Aust  
+Vogesenblick 12  
 79588 Efringen-Kirchen 
 
 ## Kontakt
@@ -18,8 +18,8 @@ code@ryanthara.de
 
 ## Redaktionell verantwortlich
 
-Sebastian Aust
-Vogesenblick 12
+Sebastian Aust  
+Vogesenblick 12  
 79588 Efringen-Kirchen
 
 ## Schutzrechtsverletzung
