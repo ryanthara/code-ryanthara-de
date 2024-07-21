@@ -2,6 +2,9 @@
 title: AutoLISP
 date: '07:42 21-07-2024'
 hide_git_sync_repo_link: false
+highlight:
+    enabled: true
+    lines: true
 ---
 
 # AutoLISP
