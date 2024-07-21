@@ -8,14 +8,14 @@ date: '19:23 21-07-2024'
 
 # Java
 
-Es wird um [Java](https://de.wikipedia.org/wiki/Java_(Programmiersprache)) gehen.
+It will be about [Java](https://en.wikipedia.org/wiki/Java_(programming_language)).
 
-Java ist eine objektorientierte Programmiersprache und eine eingetragene Marke des Unternehmens Sun Microsystems, welches 2010 von Oracle übernommen wurde.
+Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. It is a general-purpose programming language intended to let programmers write once, run anywhere (WORA), meaning that compiled Java code can run on all platforms that support Java without the need to recompile.
 
 
 ## Example
 
-Ein einfaches „Hello World“-Programm in Java sieht so aus:
+A simple 'Hello world' program in Java would be:
 
 ```Java
 class HelloWorldApp {
