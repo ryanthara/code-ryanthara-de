@@ -6,6 +6,6 @@ hide_git_sync_repo_link: false
 
 # AutoLISP
 
-Es wird um [AutoLISP](https://en.wikipedia.org/wiki/AutoLISP) gehen. 
+It will be about [AutoLISP](https://en.wikipedia.org/wiki/AutoLISP).
 
-[AutoLISP](https://en.wikipedia.org/wiki/AutoLISP) ist ein Dialekt der Programmiersprache [Lisp](https://de.wikipedia.org/wiki/Lisp), der speziell für die Verwendung mit der Vollversion von [AutoCAD](https://de.wikipedia.org/wiki/AutoCAD) und seinen Derivaten entwickelt wurde.
+[AutoLISP](https://en.wikipedia.org/wiki/AutoLISP) is a dialect of the programming language [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language)) built specifically for use with the full version of [AutoCAD](https://en.wikipedia.org/wiki/AutoCAD) and its derivatives.
