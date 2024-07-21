@@ -12,16 +12,16 @@ Sebastian Aust
 Vogesenblick 12  
 79588 Efringen-Kirchen 
 
-## Kontakt
+## Contact
 
 code@ryanthara.de
 
-## Redaktionell verantwortlich
+## Editorially responsible
 
 Sebastian Aust  
 Vogesenblick 12  
 79588 Efringen-Kirchen
 
-## Schutzrechtsverletzung
+## Infringement of property rights
 
-Falls Sie vermuten, dass durch diese Website eines Ihrer Schutzrechte verletzt wird, teilen Sie das bitte umgehend per elektronischer Post mit, damit zügig Abhilfe geschaffen werden kann.
+If you suspect that one of your intellectual property rights has been infringed by this website, please notify us immediately by e-mail so that remedial action can be taken quickly.
