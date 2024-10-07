@@ -6,6 +6,6 @@ hide_git_sync_repo_link: false
 
 # Installation
 
-This describes the installation of 
+This page describes the installation of JavaFX, an open source, next generation client application platform for desktop, mobile and embedded systems built on Java. It is a collaborative effort by many individuals and companies with the goal of producing a modern, efficient, and fully featured toolkit for developing rich client applications.
 
-You can install **JavaFX** from 
+You can get **JavaFX** from https://openjfx.io/
