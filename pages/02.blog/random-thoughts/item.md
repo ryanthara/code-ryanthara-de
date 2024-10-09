@@ -1,10 +1,24 @@
 ---
-title: Random Thoughts
-date: 13:34 05/26/2017 
+title: 'IntelliJ, JavaFX und Hello World!'
+date: '06:00 10/10/2024'
 taxonomy:
-    category: blog
-    tag: [journal]
+    category:
+        - blog
+    tag:
+        - JavaFX
+        - IntelliJ
+hide_git_sync_repo_link: false
+blog_url: /blog
+show_sidebar: true
+show_breadcrumbs: true
+show_pagination: true
+hide_from_post_list: false
+feed:
+    limit: 10
 ---
+
+
+
 
 Lorem markdownum mirum. Solus restare dabat, gladio vipereis caerula?
 
@@ -24,6 +38,10 @@ formosis](http://in-de.io/et) coniunx scilicet Neptunus.
 Hanc quam magni iussae habent, ira face alasque invidet? Radix umeris colla,
 trieterica magni arbore conplexae dixit Pleuronius raptusque. Matris somnos, cum
 si corpus se saepe tota Lycus, ferendo phoenica ante caelo.
+
+	public static void main(String[] args) {
+    	System.out.println("Hello World!");
+    }
 
     gigoDdr(40, 3, sdram_kvm + webPmu(keylogger, real, 30));
     if (memory.trinitron_bar_format(5 + session_fragmentation_hypermedia)) {
