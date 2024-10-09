@@ -16,47 +16,23 @@ feed:
     limit: 10
 ---
 
-Lorem markdownum mirum. Solus restare dabat, gladio vipereis caerula?
+A few ingredients are enough to learn programming. Typically, you start with a simple program that outputs “Hello World!” in almost every programming language.
 
-Nos me quem cura ambo capillos vibrata terram, precor insignia liquidis viderit.
-Obstitit subitis lacrimis Fames canendo, [herbas lupi
-formosis](http://in-de.io/et) coniunx scilicet Neptunus.
+A simple editor, the command line, ..., you can also use an integrated development environment without any frills.
 
-> Animam non fatus: per animal Iolao baculo digitos ad tergo. Ultra cribri
-> condas! Parabat non canities domos ambo canaeque Pulchrior vident. **Foramina
-> uterum**, est serpit gente **horrescere**, sed cineres, Iove mea mihi mensum
-> profundum, in.
+In the case of JavaFX, one way is via:
+* Install IntelliJ IDEA
+* Install OpenJDK
+* Install JavaFX
 
-===
+A new JavaFX project is then created and the Execute button is pressed. **Error message**
 
-## Sit in facinus patruus deducens in multaque
+	Error: JavaFX runtime components are missing, and are required to run this application
+    
+The answer can be found in this [Stackoverflow post](https://stackoverflow.com/questions/52467561/intellij-cant-recognize-javafx-11-with-openjdk-11).
 
-Hanc quam magni iussae habent, ira face alasque invidet? Radix umeris colla,
-trieterica magni arbore conplexae dixit Pleuronius raptusque. Matris somnos, cum
-si corpus se saepe tota Lycus, ferendo phoenica ante caelo.
+Before you run the default project, you just need to add these to the VM options:
+    
+    --module-path /Users/<user>/Downloads/javafx-sdk-11/lib --add-modules=javafx.controls,javafx.fxml
 
-    gigoDdr(40, 3, sdram_kvm + webPmu(keylogger, real, 30));
-    if (memory.trinitron_bar_format(5 + session_fragmentation_hypermedia)) {
-        character(hfsRecordName * address_sector_tunneling,
-                association_toggle_touchscreen);
-        timeCore(rtf_rj);
-        frame = commerce_dhcp;
-    }
-    protocol_lcd_x(crossZip, isdn, defaultDisk);
-    if (golden_supply_left) {
-        icf.imDesktop(98, middleware_web_point);
-        server = target_kernel.webLink(inboxSpoolingPage, nybbleLeft) +
-                modifier;
-        cableCron.fat_whois_panel.hexadecimal(ppc + padTruncate);
-    }
-
-Ut doliturus quoque. Meus vero et, vincemur horamque simul explorant omnia.
-Dictaeo tu caudas, tenet, malum undis abit inmitis positamque **ego**: pendentia
-enixa graves ero defecto. [Viro](http://omne.com/caicus.aspx) haec unde
-haerentem regnabat sollicita suisque! Patria intellegat nunc rexit, et iuris
-inplet **humano**, duabus etiam volandi.
-
-Admonitorque vitae leones et, et lupos modo placido saltem **haustis**. Nutrit
-nostris coniunctior servatrix, undas magnis movebatur continuo laesit, parva.
-Hunc servitii tu sacra.
-
+Which can also be found in the [documentation](https://openjfx.io/openjfx-docs/) of JavaFX.
