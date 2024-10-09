@@ -32,7 +32,8 @@ Anschließend wird ein neues JavaFX-Projekt angelegt und die Ausführen-Taste ge
     
 Die Antwort steckt in diesem [Stackoverflow-Beitrag](https://stackoverflow.com/questions/52467561/intellij-cant-recognize-javafx-11-with-openjdk-11).
 
-	Before you run the default project, you just need to add these to the VM options:
-    --module-path /Users/<user>/Downloads/javafx-sdk-11/lib --add-modules=javafx.controls,javafx.fxml
+Before you run the default project, you just need to add these to the VM options:
+
+	--module-path /Users/<user>/Downloads/javafx-sdk-11/lib --add-modules=javafx.controls,javafx.fxml
 
 Was übrigens auch in der [Dokumentation](https://openjfx.io/openjfx-docs/) von JavaFX zu finden ist.
